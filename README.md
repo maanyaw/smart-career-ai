@@ -7,7 +7,7 @@ It also performs **skill-gap analysis** and suggests curated **courses** to brid
 ---
 
 ## 📸 Screenshots  
-<img width="1915" height="1029" alt="image" src="https://github.com/user-attachments/assets/71ba425d-969e-4bfb-aa65-038e3f315808" />
+
 <img width="1887" height="1005" alt="image" src="https://github.com/user-attachments/assets/5c631840-6d79-4ee1-9409-1699098b7251" />
 
 
